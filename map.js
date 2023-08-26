@@ -18,3 +18,6 @@ console.log( multiply);
 // 3:::
 const result = numbers.map ( (x) => x*5);
 console.log(result);
+
+
+
